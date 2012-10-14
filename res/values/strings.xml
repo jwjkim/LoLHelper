@@ -1,8 +1,18 @@
 <resources>
 
     <string name="app_name">LeagueHelper</string>
-    <string name="hello_world">Hello world!</string>
     <string name="menu_settings">Settings</string>
-    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_home">LoL Helper</string>
+    
+    <!-- Welcome Screen -->
+	<string name="logo">JK Logo</string>
+	<string name="enter">ENTER</string>
+	<string name="development">JK Developement</string>
+	
+	<!-- Home Screen -->
+	<string name="btn_champ">Champions</string>
+	<string name="btn_items">Items</string>
+	<string name="btn_counters">Counters</string>
+	<string name="btn_spells">Spells</string>
 
 </resources>
